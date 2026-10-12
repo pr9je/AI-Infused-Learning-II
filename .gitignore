@@ -1,0 +1,11 @@
+# env file
+.env
+
+# virtual environment
+venv/
+
+# Python
+__pycache__/
+
+# Byte-compiled / optimized / DLL files
+.gradio/
